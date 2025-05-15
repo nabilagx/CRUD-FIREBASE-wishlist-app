@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "184869642934",
+    "project_id": "wishlist-nabila-ch",
+    "storage_bucket": "wishlist-nabila-ch.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184869642934:android:7f5a09926f05fff859fc17",
+        "android_client_info": {
+          "package_name": "com.example.wishlist_app_nabila"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1vfXraItIP16HyBMkRZLQNUn19RG2lG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
