@@ -49,8 +49,8 @@ Firebase digunakan sebagai database cloud real-time untuk menyimpan data wishlis
 
 ```bash
 flutter pub get
-flutter run
-
+flutter run 
+```
 
 ## Getting Started
 
