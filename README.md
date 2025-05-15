@@ -23,18 +23,19 @@ Firebase digunakan sebagai database cloud real-time untuk menyimpan data wishlis
 ## 📸 Screenshot
 
 ### Halaman Daftar Wishlist
-![Daftar Wishlist](Documentation/list.jpeg)
+<img src="Documentation/list.jpeg" width="400"/>
 
 ### Form Tambah Wishlist
-![Form Wishlist](Documentation/tambah%20data.png)
-![Bukti Form Wishlist](Documentation/lihat%20hasil%20tambah%20data.png)
+<img src="Documentation/tambah%20data.png" width="400"/>
+<img src="Documentation/lihat%20hasil%20tambah%20data.png" width="400"/>
 
 ### Edit Wishlist
-![Edit Wishlist](Documentation/edit.png)
-![Bukti Edit Wishlist](Documentation/bukti%20edit.png)
+<img src="Documentation/edit.png" width="400"/>
+<img src="Documentation/bukti%20edit.png" width="400"/>
 
 ### Hapus Wishlist
-![Hapus Wishlist](Documentation/berhasil%20hapus.png)
+<img src="Documentation/berhasil%20hapus.png" width="400"/>
+
 
 ## 🛠️ Teknologi yang Digunakan
 - Flutter
