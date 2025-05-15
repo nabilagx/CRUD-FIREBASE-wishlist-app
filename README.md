@@ -1,6 +1,55 @@
-# wishlist_app_nabila
+# 📌 Wishlist App Nabila
 
-A new Flutter project.
+Nama    : Nabila Choirunisa
+Kelas   : PBM B
+NIM     : 232410102059
+
+Aplikasi Flutter sederhana yang mengimplementasikan fitur **CRUD (Create, Read, Update, Delete)** menggunakan **Firebase Firestore**.
+
+## 🔧 Fitur
+- Tambah wishlist baru
+- Lihat daftar wishlist
+- Edit wishlist
+- Hapus wishlist
+
+## ☁️ Integrasi Firebase
+
+Aplikasi ini terhubung dengan **Firebase Firestore** menggunakan:
+- `cloud_firestore` package
+- File konfigurasi Firebase di `firebase_options.dart`
+
+Firebase digunakan sebagai database cloud real-time untuk menyimpan data wishlist pengguna (tanpa login).
+
+## 📸 Screenshot
+
+### Halaman Daftar Wishlist
+![Daftar Wishlist](Documentation/list.jpeg)
+
+### Form Tambah Wishlist
+![Form Wishlist](Documentation/tambah%20data.png)
+![Bukti Form Wishlist](Documentation/lihat%20hasil%20tambah%20data.png)
+
+### Edit Wishlist
+![Edit Wishlist](Documentation/edit.png)
+![Bukti Edit Wishlist](Documentation/bukti%20edit.png)
+
+### Hapus Wishlist
+![Hapus Wishlist](Documentation/berhasil%20hapus.png)
+
+## 🛠️ Teknologi yang Digunakan
+- Flutter
+- Firebase Firestore (tanpa login)
+![Firebase Firestore](Documentation/firebase1.png)
+![Firebase Firestore](Documentation/firebase2.png)
+![Firebase Firestore](Documentation/firebase3.png)
+![Firebase Firestore](Documentation/firebase4.png)
+
+## ▶️ Cara Menjalankan Aplikasi
+
+```bash
+flutter pub get
+flutter run
+
 
 ## Getting Started
 
